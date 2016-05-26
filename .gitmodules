@@ -1,0 +1,6 @@
+[submodule "libraries/HID"]
+	path = libraries/HID
+	url = https://github.com/NicoHood/HID.git
+[submodule "libraries/HoodLoader2"]
+	path = libraries/HoodLoader2
+	url = https://github.com/NicoHood/HoodLoader2.git
